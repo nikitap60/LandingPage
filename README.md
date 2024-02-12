@@ -1,2 +1,2 @@
-# LandingPage
+# Codesoft
 Use HTML &amp; CSS
